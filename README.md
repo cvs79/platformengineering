@@ -123,9 +123,7 @@ If you'd like to improve this website:
 
 ## 📞 Contact
 
-- Email: hello@platformengineering.dev
-- GitHub: [@platformengineering](https://github.com/platformengineering)
-- Twitter: [@platformeng](https://twitter.com/platformeng)
+- GitHub: [@platformengineering](https://github.com/cvs79/platformengineering)
 
 ---
 
